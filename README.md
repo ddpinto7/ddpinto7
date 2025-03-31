@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 :computer: **Estudiante de backend**
+
 :pencil: **Aprendiendo en platzi**
+
 :eyeglasses: **Geek empedernido**
+
 📖 **Fan de los libros**
 
 ### Vias de contacto
